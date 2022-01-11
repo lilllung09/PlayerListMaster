@@ -1,0 +1,10 @@
+name: PLM
+main: com.gmail.lilllung09.plm.PlayerListMaster
+version: 1.0
+author : lilllung09
+api-version: 1.13
+softdepend:
+  - ProtocolLib
+commands:
+  plm :
+    description : lilllung09 second plugin
